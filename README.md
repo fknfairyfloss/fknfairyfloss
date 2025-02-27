@@ -5,7 +5,7 @@
 # 🧚‍♀️ FairyFloss Development
 
 ## 📂 Development Structure
-cd "/media/ff/Local Disk/Work Station/FairyFloss" && \
+hidden
 
 echo "=============================================" && \
 echo "🔍 VERIFYING AND PUSHING FINAL SETUP" && \
