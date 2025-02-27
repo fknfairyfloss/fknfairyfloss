@@ -15,8 +15,7 @@ echo "=============================================" && \
 hidden
 
 # 2. Update mindmap
-mkdir -p diagrams/mindmaps
-cat > diagrams/mindmaps/secret-trees-mindmap.drawio << 'END'
+hidden
 <mxfile host="app.diagrams.net" modified="2024-02-24">
   <diagram name="FairyFloss Structure" id="structure">
     <mxGraphModel>
