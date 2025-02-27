@@ -12,15 +12,7 @@ echo "🔍 VERIFYING AND PUSHING FINAL SETUP" && \
 echo "=============================================" && \
 
 # 1. Verify structure
-echo -e "\n1️⃣ Checking directory structure..."
-for dir in secrettrees secrettrees-private docs integration; do
-    if [ -d "$dir" ]; then
-        echo "✓ $dir exists"
-        ls -la "$dir"
-    else
-        echo "✗ $dir missing"
-    fi
-done
+hidden
 
 # 2. Update mindmap
 mkdir -p diagrams/mindmaps
