@@ -1,32 +1,18 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=200&section=header&text=FairyFloss%20Development&fontSize=50&fontAlignY=35&animation=twinkling" />
-</div>
+# fknfairyfloss
 
-# 🧚‍♀️ FairyFloss Development
+Builder at [Ambr](https://ambr.run), an agreement layer for AI agents: Ricardian contracts that autonomous agents can sign and settle.
 
-## 📂 Development Structure
-hidden
+Alongside Ambr I build and run web products for clients and for myself, mostly Next.js and Payload on Supabase, deployed on Vercel or on a Hetzner box with Docker.
 
-echo "=============================================" && \
-echo "🔍 VERIFYING AND PUSHING FINAL SETUP" && \
-echo "=============================================" && \
+## Public work
 
-# 1. Verify structure
-hidden
+- [getambr/ambr](https://github.com/getambr/ambr): the Ambr platform, TypeScript.
+- [secrettrees](https://github.com/fknfairyfloss/secrettrees): the SecretTrees site, live at [secrettrees.vercel.app](https://secrettrees.vercel.app).
 
-# 2. Update mindmap
-hidden
-<mxfile host="app.diagrams.net" modified="2024-02-24">
-  <diagram name="FairyFloss Structure" id="structure">
-    <mxGraphModel>
-      <root>
-        <mxCell id="0"/>
-        <mxCell id="1" parent="0"/>
-        <mxCell id="2" value="FairyFloss" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ff69b4;" vertex="1" parent="1">
-          <mxGeometry x="200" y="200" width="120" height="80" as="geometry"/>
-        </mxCell>
-        <!-- Add more structure here -->
-      </root>
-    </mxGraphModel>
-  </diagram>
-</mxfile>
+Most client work is private.
+
+## Reach me
+
+Open an issue on one of the repositories above, or write through [ambr.run](https://ambr.run).
+
+Off the keyboard: house music at [ilverssermols.xyz](https://ilverssermols.xyz). Vibing at 124 bpm.
